@@ -1,13 +1,13 @@
 # ERD 기획 회의
 
-![Untitled](ERD%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%2073c4990953234df0ad40ead4b97fa912/Untitled.png)
+![Untitled](erd/erd_1.png)
 
-![Untitled](ERD%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%2073c4990953234df0ad40ead4b97fa912/Untitled%201.png)
+![Untitled](erd/erd_2.png)
 
-![Untitled](ERD%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%2073c4990953234df0ad40ead4b97fa912/Untitled%202.png)
+![Untitled](erd/erd_3.png)
 
-![Untitled](ERD%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%2073c4990953234df0ad40ead4b97fa912/Untitled%203.png)
+![Untitled](erd/erd_4.png)
 
-![Untitled](ERD%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%2073c4990953234df0ad40ead4b97fa912/Untitled%204.png)
+![Untitled](erd/erd_6.png)
 
-![Untitled](ERD%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%2073c4990953234df0ad40ead4b97fa912/Untitled%205.png)
+![Untitled](erd/erd_5.png)
